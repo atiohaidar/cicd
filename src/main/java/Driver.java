@@ -9,7 +9,7 @@ public class Driver {
 		System.out.println("Current count:" + counter.getCount());
 		// kata siapa
 		counter.increment();
-		
+		//you
 		System.out.println("Current count:" + counter.getCount());
 		
 		counter.decrement();
