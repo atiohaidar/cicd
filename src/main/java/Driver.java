@@ -7,7 +7,7 @@ public class Driver {
 		Counter counter = new Counter();
 		// emang iya?
 		System.out.println("Current count:" + counter.getCount());
-		
+		// kata siapa
 		counter.increment();
 		
 		System.out.println("Current count:" + counter.getCount());
